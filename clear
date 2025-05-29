@@ -1,0 +1,27 @@
+[33mcommit fbbfbf7747f948945dbf5921f3c1422cbd6c99a4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Vaidik26 <vaidiky90@gmail.com>
+Date:   Mon May 26 18:36:09 2025 +0530
+
+    adding git ignore file
+
+ .gitignore | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 2512f92b14294dee99b8a21c7314d1148449d2e0[m
+Author: Vaidik26 <vaidiky90@gmail.com>
+Date:   Mon May 26 18:26:39 2025 +0530
+
+    added new features
+
+ train.py | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit dc916d550be9885cc79c8749dcc7c5cca85b1c6f[m
+Author: Vaidik26 <vaidiky90@gmail.com>
+Date:   Sat May 24 20:00:00 2025 +0530
+
+    added first line of code
+
+ app.py   | 2 [32m++[m
+ train.py | 1 [32m+[m
+ 2 files changed, 3 insertions(+)
